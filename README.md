@@ -91,6 +91,9 @@ A proven track record in developing risk models on alternate data, customer segm
 
 ## Projects
 
+### Prospect Modeling for Automobile giant
+Developed prospect modeling framework for an automobile client to target customers who have the high propensity to buy the cars from the luxury automobile brand. Lookalike modeling were developed to target high value customers using the customers CRM data. 
+
 ### AML/Fraud Analytics 
 Helped build AML platform, thereby allowing it to predict cross border money laundering transactions for one of the leading banks.
 
