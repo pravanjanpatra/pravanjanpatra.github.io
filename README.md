@@ -113,10 +113,10 @@ The retailer wishes to enable business decisions by understanding what consumers
 ## Education
 
 ### **Great Lakes Insitute of Management**
-### Post Graduate Program in Business Analytics and Business Intelligence (2013)
+Post Graduate Program in Business Analytics and Business Intelligence (2013)
 
 ### **Biju Pattnaik University of Science and Technology**
-### BTech Information Technology (2003- 2007) 
+BTech Information Technology (2003- 2007) 
 
 ---
 
