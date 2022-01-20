@@ -1,1 +1,11 @@
+title: Pravanjan Patra # your name (or website title) here
+logo: "/profile.png?raw=true" # your photo (or logo) here
+description: > # your text below (remove <br> elements if you don't need line breaks)
+ Senior Manager - Data Science
+  <br><br>
+  <a href="mailto:pravanjanpatra@gmail.com">aashima.ahuja811@gmail.com </a>
+  <br>
+  <a href="https://www.linkedin.com/in/pravanjan-patra-51101b14/">LinkedIn Profile</a>
+  <br>
+  
 theme: jekyll-theme-minimal
