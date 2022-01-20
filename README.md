@@ -24,7 +24,7 @@ A proven track record in developing risk models on alternate data, customer segm
 ### **Senior Manager - Analytics Services**
 ### Ugam Solutions - A Merkle Company (Apr 2019 - Present)
 
-•	Directed analytical planning for pharmaceutical, healthcare insurance, retail, banking, finance, automobile organization global clients generating a revenue of $2.5M for Q1      2021
+•	Directed analytical planning for pharmaceutical, healthcare insurance, retail, banking, finance, automobile organization global clients generating a revenue of $2.5M for Q1   2021
 •	Led the development and execution of predictive model and provided solutions to reduce marketing cost and reach maximum audience
 •	Built Retention model, Response model, Conversion model, Lookalike model, Propensity model, Marketing Mix model, and customer segmentation using clustering
 •	Deployed advanced analytics and machine learning techniques to solve business challenges like segmentation, cross-sell/up-sell, demographic prediction, pre to post-migration
@@ -68,7 +68,7 @@ A proven track record in developing risk models on alternate data, customer segm
 ### **Senior Software Engineer**
 ### Cognizant India Pvt Ltd (Nov 2009 - Jul 2012)
 
-•	Wrote SQL stored procedures to create and pull customized reports for Business Analysis
+•	Designed SQL stored procedures to create and pull customized reports for Business Analysis
 •	Liaising with multiple stakeholders (business, architecture, system SMEs) to obtain a buy-in regarding the decommissioning plans
 •	Impact Analysis and validation of end-to-end functionality of the to-be landscape
 •	Engage SMEs from impacted sectors to reach the same understanding and agree on the deliverable
@@ -95,13 +95,13 @@ A proven track record in developing risk models on alternate data, customer segm
 
 ## Education
 
-### **GURU NANAK DEV UNIVERSITY**
-### BTech Computer Science (2012- 2016)
-GPA 8.75
+### **Great Lakes Insitute of Management**
+### Post Graduate Program in Business Analytics and Business Intelligence (2013)
+CGPA 9
+
+### **Biju Pattnaik University of Science and Technology**
+### BTech Information Technology (2003- 2007)
+CGPA 7
 
 ---
 
-### INTERESTS
-Apart from being a web developer, I do content creation. I make videos related to frontend and general tech.
-
-I enjoy being outdoors, so i go for run everyday. I love travelling to different countries and explore different cultures. When i am inside , i play guitar and sing in my free time.
