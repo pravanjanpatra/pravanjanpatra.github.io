@@ -92,16 +92,16 @@ A proven track record in developing risk models on alternate data, customer segm
 ## Projects
 
 ### AML/Fraud Analytics 
-Anti Money Laundering engineHelped build AML platform, thereby allowing it to predict cross border money laundering transactions for one of the leading banks.
+Helped build AML platform, thereby allowing it to predict cross border money laundering transactions for one of the leading banks.
 
 ### Health Insurance targeting plan
-Have built Machine Learning and Deep learning models to help our clients to find probable consumers for their Health Insurance plans by target marketing for the Annual Enrolment Plan campaign run every year for the senior citizens in the US by the government.
+Built Machine Learning and Deep learning models to help our clients to find probable consumers for their Health Insurance plans by target marketing for the Annual Enrolment Plan campaign run every year for the senior citizens in the US by the government.
 
 ### Churn prediction
 Helped to build the churn prediction model for a Dental Insurance client as part of their customer retention program. In addition to predicting the churn, we also helped the client to predict within how many days the customer would churn, thus giving the client a probable number of days a customer would leave and giving the client an ample amount of time to plan for consumer retention.
 
 ### Media Mix Modeling
-Have built many Media Mix Attribution models for various clients that use past performance to determine how each marketing element contributes towards a brands overall success, volume impact, and financial return. This helped in ascertaining the effectiveness of each marketing input in terms of Return on Investment.
+Built many Media Mix Attribution models for various clients that use past performance to determine how each marketing element contributes towards a brands overall success, volume impact, and financial return. This helped in ascertaining the effectiveness of each marketing input in terms of Return on Investment.
 
 ### Sentiment analysis
 The retailer wishes to enable business decisions by understanding what consumers are looking for in the category based on their feedback through online reviews and ratings. So we built a Machine Learning model using Natural Language Processing by Acquiring customer reviews and rating data and using LDA and Topic Modeling to generate insights and provide recommendations.
