@@ -9,13 +9,9 @@ A proven track record in developing risk models on alternate data, customer segm
 
 ## Skills
 
-<p align='left'>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" alt="html" width="40" height="40">
-  <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png' alt="css" width="40" height="40">
-  <img src='https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png' height='30' width='auto' alt="js">
-   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" alt="react" width="auto" height="40"/>
-   <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
-</p>
+•	Machine Learning, Statistics, Deep Learning, Market mix modeling, Natural Language Processing (NLP), Amazon Web Services (AWS) , Python (Programming Language), PySpark, R (Programming Language), SAS, Google Cloud Platform (GCP), Predictive Algorithms, Business Data Analysis, A/B testing
+•	Digital Marketing Analytics, Customer Analytics, Requirements Gathering, Data Insights
+•	MS SQL Server, DB2, RedShift, Palantir, Snowflake, Hive, Oracle, Tableau, D3, Excel, Program Management
 
 ---
 
@@ -93,6 +89,24 @@ A proven track record in developing risk models on alternate data, customer segm
 
 ---
 
+## Projects
+
+### AML/Fraud Analytics 
+Anti Money Laundering engineHelped build AML platform, thereby allowing it to predict cross border money laundering transactions for one of the leading banks.
+
+### Health Insurance targeting plan
+Have built Machine Learning and Deep learning models to help our clients to find probable consumers for their Health Insurance plans by target marketing for the Annual Enrolment Plan campaign run every year for the senior citizens in the US by the government.
+
+### Churn prediction
+Helped to build the churn prediction model for a Dental Insurance client as part of their customer retention program. In addition to predicting the churn, we also helped the client to predict within how many days the customer would churn, thus giving the client a probable number of days a customer would leave and giving the client an ample amount of time to plan for consumer retention.
+
+### Media Mix Modeling
+Have built many Media Mix Attribution models for various clients that use past performance to determine how each marketing element contributes towards a brands overall success, volume impact, and financial return. This helped in ascertaining the effectiveness of each marketing input in terms of Return on Investment.
+
+### Sentiment analysis
+The retailer wishes to enable business decisions by understanding what consumers are looking for in the category based on their feedback through online reviews and ratings. So we built a Machine Learning model using Natural Language Processing by Acquiring customer reviews and rating data and using LDA and Topic Modeling to generate insights and provide recommendations.
+
+---
 ## Education
 
 ### **Great Lakes Insitute of Management**
